@@ -1,3 +1,10 @@
-#content {
-    padding: 2px 30px 2px 30px
+body {
+    font-family: 'Raleway', sans-serif;
+    padding: 2px 5% 2px 5%
+}
+
+#hero-img {
+    width: 700px;
+    height: 600px;
+    border-radius: 50% 38% 50% 38%;
 }
